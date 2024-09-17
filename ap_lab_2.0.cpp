@@ -16,7 +16,11 @@ int main() {
     double zmina_1; //зміна 1, коміт "commit_task_1.1"
     double zmina_2; //зміна 2, коміт "commit_task_1.2"
 
+<<<<<<< HEAD
     double zmina_4; //зміна 4, коміт "commit_task_3"
+=======
+    double zmina_3; //зміна 3, коміт "commit_task_2.1"
+>>>>>>> branch_2
 
     double Pi = 3.14159265358979;
 
