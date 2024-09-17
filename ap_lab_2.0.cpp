@@ -14,6 +14,7 @@ int main() {
     double a;
 
     double zmina_1; //зміна 1, коміт "commit_task_1.1"
+    double zmina_2; //зміна 2, коміт "commit_task_1.2"
 
     double Pi = 3.14159265358979;
 
