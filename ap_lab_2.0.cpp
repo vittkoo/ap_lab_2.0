@@ -16,6 +16,8 @@ int main() {
     double zmina_1; //зміна 1, коміт "commit_task_1.1"
     double zmina_2; //зміна 2, коміт "commit_task_1.2"
 
+    double zmina_4; //зміна 4, коміт "commit_task_3"
+
     double Pi = 3.14159265358979;
 
     cout << "Enter a: ";
